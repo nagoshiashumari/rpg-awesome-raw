@@ -10,7 +10,7 @@ First, add the new SVG file to `/Font`.
 
 Next, use [IcoMoon](https://icomoon.io/app/) to import all of the SVG files located in `/Font`.
 
-Once imported, proceed to the next section "Download". Set your preferences to the following:
+Once imported, select all of your icons and proceed to the next section "Download". Set your preferences to the following:
 
 * Font Name: `rpgawesome-webfont`
 * Class Prefix: `ra-var-icon`
