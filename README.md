@@ -25,4 +25,4 @@ Once the Preferences are set, click Download. You will receive a ZIP file. In it
 
 * `zip/fonts` => `rpg-awesome/fonts`
 
-You will need to manually copy and paste `zip/variables.scss` into `rpg-awesome/scss/_variables.scss`, overwritting the old `ra-var-icon` variables.
+You will need to manually copy and paste the contents of `zip/variables.scss` into `rpg-awesome/scss/_variables.scss`, overwritting the old `ra-var-icon` variables.
